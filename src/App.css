@@ -1,0 +1,22 @@
+@font-face{
+    font-family: MoonBold;
+    src: url("./fonts/MoonBold.otf");
+}
+
+@font-face{
+    font-family: MoonLight;
+    src: url("./fonts/MoonLight.otf");
+}
+
+@font-face{
+    font-family: MoonRegular;
+    src: url("./fonts/MoonRegular.otf");
+}
+
+h1,h2,h3,h4,h4,h5,h6{
+    font-family: MoonBold;
+}
+
+.title{
+    font-family: MoonRegular;
+}
